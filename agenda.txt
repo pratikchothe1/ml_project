@@ -1,0 +1,8 @@
+Data Ingestion
+Data transformation 
+Model trainer
+Model Evaluation 
+Model Deployment
+
+CICD Pipelines: GitHub Actions 
+Deployment: AWS
